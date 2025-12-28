@@ -187,8 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fecd7782e01e96d",
+  "active": "bde6b3b8ea5bfa28",
   "lastOpenFiles": [
+    "react js/04-event-handling/Event Object.md",
+    "react js/04-event-handling/Passing Arguments to Handlers.md",
     "react js/04-event-handling/Event Handler Syntax.md",
     "react js/04-event-handling/onClick and Common Events.md",
     "react js/03-essential-hooks/Custom Hooks Introduction.md",
@@ -213,9 +215,7 @@
     "react js/01-components-and-jsx/What are Components.md",
     "react js/02-props-and-state/index.md",
     "react js/01-components-and-jsx/index.md",
-    "react js/10-common-patterns/index.md",
     "react js/10-common-patterns",
-    "react js/09-project-setup/index.md",
     "react js/09-project-setup",
     "react js/08-styling-react",
     "react js/07-forms-and-inputs",
