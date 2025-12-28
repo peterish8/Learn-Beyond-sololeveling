@@ -1,0 +1,42 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiWorkflow",
+      "LiCalculator",
+      "📭",
+      "LiAlbum",
+      "LiBadgeCheck"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Sem Exam": "LiBookMarked",
+  "Sem Exam/1-Frontend-Dev": "LiAtom",
+  "Sem Exam/2-DSA": "LiBadgeCheck",
+  "Sem Exam/4-Mathematics-for-AI-ML": "LiCalculator",
+  "Sem Exam/2-DSA/Practice Questions": "LiWorkflow"
+}

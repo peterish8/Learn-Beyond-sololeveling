@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "0fad3651bd259d8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db276277920b4e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fecd7782e01e96d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c941e52fb0a30d34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "react js/React JS Hub.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React JS Hub"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "99ca5539aeb9e6d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "512f1b4bb0147f46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9723683d64332028",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8a820c16ebb86303",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c4d2da6411a63d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6777961897d104a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "25d7340209c79416",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85ce7337a765b31c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8d97256944a00afa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a20d6e49952de422",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c5a3c1ef50dca94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "bde6b3b8ea5bfa28",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 769.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6fecd7782e01e96d",
+  "lastOpenFiles": [
+    "react js/04-event-handling/Event Handler Syntax.md",
+    "react js/04-event-handling/onClick and Common Events.md",
+    "react js/03-essential-hooks/Custom Hooks Introduction.md",
+    "react js/03-essential-hooks/Common Hooks Patterns.md",
+    "react js/03-essential-hooks/useEffect Dependency Array.md",
+    "react js/03-essential-hooks/useEffect Cleanup Functions.md",
+    "react js/React JS Hub.md",
+    "react js/03-essential-hooks/useEffect Hook.md",
+    "react js/03-essential-hooks/useState Hook.md",
+    "Understanding Props.md",
+    "react js/02-props-and-state/Immutability in State.md",
+    "react js/02-props-and-state/When to Use State vs Props.md",
+    "react js/02-props-and-state/What is State.md",
+    "react js/02-props-and-state/Default Props.md",
+    "react js/02-props-and-state/Props Destructuring.md",
+    "react js/02-props-and-state/Understanding Props.md",
+    "react js/01-components-and-jsx/Component Composition Basics.md",
+    "react js/01-components-and-jsx/Fragment Usage.md",
+    "react js/01-components-and-jsx/JSX Attributes and Props.md",
+    "react js/01-components-and-jsx/Embedding Expressions in JSX.md",
+    "react js/01-components-and-jsx/JSX Syntax Fundamentals.md",
+    "react js/01-components-and-jsx/What are Components.md",
+    "react js/02-props-and-state/index.md",
+    "react js/01-components-and-jsx/index.md",
+    "react js/10-common-patterns/index.md",
+    "react js/10-common-patterns",
+    "react js/09-project-setup/index.md",
+    "react js/09-project-setup",
+    "react js/08-styling-react",
+    "react js/07-forms-and-inputs",
+    "react js/06-lists-and-keys",
+    "react js/05-conditional-rendering",
+    "react js/04-event-handling",
+    "react js/03-essential-hooks",
+    "react js/02-props-and-state",
+    "react js/01-components-and-jsx"
+  ]
+}
