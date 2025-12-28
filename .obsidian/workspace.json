@@ -167,13 +167,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bd2b54bc34d17ec6",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 769.5
+    "width": 349.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,8 +197,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fecd7782e01e96d",
+  "active": "bde6b3b8ea5bfa28",
   "lastOpenFiles": [
+    "react js/README.md",
+    "react js/07-forms-and-inputs/Controlled Components.md",
+    "react js/06-lists-and-keys/List Best Practices.md",
+    "react js/06-lists-and-keys/Sorting Lists.md",
+    "react js/06-lists-and-keys/Filtering Lists.md",
+    "react js/06-lists-and-keys/Using Index as Key.md",
+    "react js/06-lists-and-keys/The Key Prop.md",
+    "react js/06-lists-and-keys/Rendering Arrays with Map.md",
     "Understanding Props.md",
     "react js/05-conditional-rendering/Conditional CSS Classes.md",
     "react js/05-conditional-rendering/Early Returns.md",
@@ -207,14 +225,6 @@
     "react js/03-essential-hooks/useEffect Dependency Array.md",
     "react js/03-essential-hooks/useEffect Cleanup Functions.md",
     "react js/React JS Hub.md",
-    "react js/03-essential-hooks/useEffect Hook.md",
-    "react js/03-essential-hooks/useState Hook.md",
-    "react js/02-props-and-state/Immutability in State.md",
-    "react js/02-props-and-state/When to Use State vs Props.md",
-    "react js/02-props-and-state/What is State.md",
-    "react js/02-props-and-state/Default Props.md",
-    "react js/02-props-and-state/Props Destructuring.md",
-    "react js/02-props-and-state/Understanding Props.md",
     "react js/10-common-patterns",
     "react js/09-project-setup",
     "react js/08-styling-react",
